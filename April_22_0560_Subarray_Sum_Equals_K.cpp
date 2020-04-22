@@ -17,6 +17,6 @@ public:
         return count;
     }
 };
-//So this is the worst solution
+/*So this is the worst solution
 i was having issues with the sliding window approach so for the time being 
-make do with this.
+make do with this.*/
